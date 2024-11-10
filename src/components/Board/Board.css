@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.board {
+    width: 1200px;
+    height: 800px;
+    border: 1px solid black;
+    display: flex;
+}
